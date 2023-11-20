@@ -6,7 +6,9 @@
 
 ## 📖 상세 내용 (코드 & 실행 방법)
 
-[실행코드 설명 - instruction.ipynb 파일](./instruction.ipynb)
+[instruction.ipynb](./instruction.ipynb)
+
+위에 파일에서 Anaconda Prompt에서 학습을 위해 사용한 코드 정리
 
 ## 🛠️ 결과
 
