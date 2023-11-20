@@ -6,7 +6,7 @@
 
 ## 📖 상세 내용 (코드 & 실행 방법)
 
-[실행코드 설명 - instruction.ipynb 파일](#instruction.ipynb)
+[실행코드 설명 - instruction.ipynb 파일](./instruction.ipynb)
 
 ## 🛠️ 결과
 
