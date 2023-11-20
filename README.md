@@ -8,7 +8,7 @@
 
 [instruction.ipynb](./instruction.ipynb)
 
-위에 파일에서 Anaconda Prompt에서 학습을 위해 사용한 코드 정리
+instruction.ipynb 파일에서 Sample Balloon 학습을 위해 사용한 코드 정리 (실행환경: Anaconda Prompt)
 
 ## 🛠️ 결과
 
