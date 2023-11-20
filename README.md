@@ -19,3 +19,11 @@
 ### interference 결과 이미지
 
 <img src="./samples/balloon/splash_20231109T212912.png" width="450px" height="300px"></img><br/>
+
+### 코드 실행
+
+```python
+python balloon.py --dataset ../../model/balloon/datasets --weights ../../mask_rcnn_balloon.h5 --logs ../../model/balloon/logs --image ../../model/balloon/datasets/val/3800636873_ace2c2795f_b.jpg splash
+```
+
+![result1](https://github.com/limbaba1120/201912120_Mask_RCNN_Assignment1/assets/102224840/89146779-b4b3-4bdc-9cdb-4611d8e39d75)
