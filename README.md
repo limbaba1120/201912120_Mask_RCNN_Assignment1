@@ -12,3 +12,10 @@
 
 ## 🛠️ 결과
 
+### interference 할 이미지
+
+<img src="./model/balloon/datasets/val/3800636873_ace2c2795f_b.jpg" width="450px" height="300px"></img><br/>
+
+### interference 결과 이미지
+
+<img src="./samples/balloon/splash_20231109T212912.png" width="450px" height="300px"></img><br/>
