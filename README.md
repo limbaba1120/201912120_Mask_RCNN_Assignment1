@@ -4,7 +4,7 @@
 - **Sample Balloon** 학습 (Anaconda 기반 로컬 코드 활용)
 - 참고 (https://hdongle.tistory.com/202) 감사합니다.
 
-## 📖 상세 내용 (코드 & 실행 방법)
+## 📖 상세 내용 & 수정한 내용 (코드 & 실행 방법)
 
 [instruction.ipynb](./instruction.ipynb)
 
